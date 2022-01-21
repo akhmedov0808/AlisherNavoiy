@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "AlisherNavoiy",
+    "slug": "AlisherNavoiy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/main-icon.png",
+    "splash": {
+      "image": "./src/assets/main-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/main-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.miranshakh.AlisherNavoiy"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
