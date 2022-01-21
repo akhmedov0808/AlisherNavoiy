@@ -1,1 +1,1 @@
-# aka_alisher_navoiy
+# Alisher_Navoiy
